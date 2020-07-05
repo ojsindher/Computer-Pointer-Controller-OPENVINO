@@ -72,23 +72,12 @@ Both synchronous and asynchronous methods are used for benchmarking along with a
 ![Model precision used vs Total Load time for Gaze Estimation model](./results_testing/total_lt_ge.jpeg)
 
 **Model preisions and corresponding inference method used vs FPS rate for the demo video**
+
 ![Model preisions and corresponding inference method used vs FPS rate for the demo video](./results_testing/fps_avg_sync_vs_async.jpeg)
 
-
-
-
-
-
-
-
 **Model preisions and corresponding inference method used vs Total time it took to run the inference on demo video**
+
 ![Model preisions and corresponding inference method used vs Total Inference time](./results_testing/total_inference_time_sync_vs_async.jpeg)
-
-
-
-
-
-
 
 
 ## Results
